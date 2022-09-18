@@ -9,3 +9,6 @@ RESET head commands
 =======
 modified again.
 >>>>>>> f8f917b4a6dd363462acbcfe3d6c0cd34ef280a4
+
+
+This is for merge conflicts.
